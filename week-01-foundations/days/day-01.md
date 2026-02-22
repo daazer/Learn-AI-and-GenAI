@@ -194,26 +194,3 @@ python main.py
 If your project supports this flow, you are operating at professional baseline.
 
 ---
-
-## 🔒 Day 01 Core Takeaway
-
-> A Python project without an isolated environment is not a real project.
-
-You now control your runtime.
-
-That’s step one toward engineering discipline.
-
----
-
-```
-
-If you’d like, I can standardize a **chapter template** so every day has:
-- Concept
-- Mental model
-- Commands
-- Failure cases
-- Professional practice
-- Reflection questions
-
-That would turn this into a cohesive learnbook instead of daily notes.
-```
