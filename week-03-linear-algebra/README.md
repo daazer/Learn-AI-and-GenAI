@@ -70,3 +70,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Vectors, Dot Product, Norms
+- Day 02: [`days/day-02.md`](days/day-02.md) - Vector Ops and Cosine Similarity
+- Day 03: [`days/day-03.md`](days/day-03.md) - Matrix Shapes and Manual Matmul
+- Day 04: [`days/day-04.md`](days/day-04.md) - Matmul Runtime Comparison
+- Day 05: [`days/day-05.md`](days/day-05.md) - Eigenvalues and SVD
+- Day 06: [`days/day-06.md`](days/day-06.md) - PCA Toy Demo
+- Day 07: [`days/day-07.md`](days/day-07.md) - Week 3 Synthesis

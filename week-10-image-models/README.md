@@ -71,3 +71,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Image Tensors and Convolution Basics
+- Day 02: [`days/day-02.md`](days/day-02.md) - Simple CNN
+- Day 03: [`days/day-03.md`](days/day-03.md) - Train CNN on Small Dataset
+- Day 04: [`days/day-04.md`](days/day-04.md) - Autoencoder
+- Day 05: [`days/day-05.md`](days/day-05.md) - Variational Autoencoder
+- Day 06: [`days/day-06.md`](days/day-06.md) - Tiny Diffusion Prototype
+- Day 07: [`days/day-07.md`](days/day-07.md) - Week 10 Synthesis

@@ -71,3 +71,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Probability and Conditional Probability
+- Day 02: [`days/day-02.md`](days/day-02.md) - Sampling Distributions
+- Day 03: [`days/day-03.md`](days/day-03.md) - Expectation, Variance, Covariance
+- Day 04: [`days/day-04.md`](days/day-04.md) - Estimator Stability
+- Day 05: [`days/day-05.md`](days/day-05.md) - Bayes Rule Toy Case
+- Day 06: [`days/day-06.md`](days/day-06.md) - Entropy, Cross-Entropy, KL
+- Day 07: [`days/day-07.md`](days/day-07.md) - Week 4 Synthesis

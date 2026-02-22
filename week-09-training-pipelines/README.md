@@ -70,3 +70,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Padding and Masks
+- Day 02: [`days/day-02.md`](days/day-02.md) - Dataset Splits + Eval Loop
+- Day 03: [`days/day-03.md`](days/day-03.md) - Checkpointing
+- Day 04: [`days/day-04.md`](days/day-04.md) - Metric Logging and Curves
+- Day 05: [`days/day-05.md`](days/day-05.md) - Initialization Comparison
+- Day 06: [`days/day-06.md`](days/day-06.md) - Gradient Clipping
+- Day 07: [`days/day-07.md`](days/day-07.md) - Reproducibility Audit

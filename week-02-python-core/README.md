@@ -71,3 +71,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - File I/O with Pathlib
+- Day 02: [`days/day-02.md`](days/day-02.md) - CSV and JSON Handling
+- Day 03: [`days/day-03.md`](days/day-03.md) - Recursive Text Loader
+- Day 04: [`days/day-04.md`](days/day-04.md) - Tokenization: Split vs Regex
+- Day 05: [`days/day-05.md`](days/day-05.md) - Character Vocabulary Mapping
+- Day 06: [`days/day-06.md`](days/day-06.md) - Batch Iterator and Dataset Class
+- Day 07: [`days/day-07.md`](days/day-07.md) - Pytest + Pipeline Summary

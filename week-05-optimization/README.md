@@ -70,3 +70,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Derivatives and Finite Differences
+- Day 02: [`days/day-02.md`](days/day-02.md) - Gradient Checker
+- Day 03: [`days/day-03.md`](days/day-03.md) - Gradient Descent and LR Schedules
+- Day 04: [`days/day-04.md`](days/day-04.md) - Linear Regression From Scratch
+- Day 05: [`days/day-05.md`](days/day-05.md) - Loss Functions in Practice
+- Day 06: [`days/day-06.md`](days/day-06.md) - Logistic Regression From Scratch
+- Day 07: [`days/day-07.md`](days/day-07.md) - Week 5 Tradeoff Summary

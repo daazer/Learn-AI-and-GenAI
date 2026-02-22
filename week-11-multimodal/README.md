@@ -70,3 +70,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Embedding Basics
+- Day 02: [`days/day-02.md`](days/day-02.md) - Shared Projection Space
+- Day 03: [`days/day-03.md`](days/day-03.md) - Contrastive Loss Training
+- Day 04: [`days/day-04.md`](days/day-04.md) - Retrieval Metrics
+- Day 05: [`days/day-05.md`](days/day-05.md) - Text-to-Image Demo
+- Day 06: [`days/day-06.md`](days/day-06.md) - Scaling Laws Reading Note
+- Day 07: [`days/day-07.md`](days/day-07.md) - Week 11 Synthesis

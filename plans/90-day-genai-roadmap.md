@@ -88,3 +88,8 @@ graph TD
   W10 --> W11[Week 11 Multimodal]
   W11 --> W12[Week 12 Capstone]
 ```
+
+## Daily Guide Format
+- Each week includes `days/day-01.md` through `days/day-07.md`.
+- Every day file contains: 5-15 minute reading material, how-to-read notes, exact coding tasks, practice drills, and a done checklist.
+- Execute the daily files directly; do not treat weekly tasks as generic guidance.

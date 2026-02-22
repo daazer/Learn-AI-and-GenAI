@@ -70,3 +70,13 @@ Mark the week complete only when:
 - All core tasks are checked.
 - Deliverables exist in notes/, code/, and artifacts/.
 - You can explain the week's key idea in plain language without notes.
+
+
+## Daily Learning Guides
+- Day 01: [`days/day-01.md`](days/day-01.md) - Python Environment and Repo Scaffolding
+- Day 02: [`days/day-02.md`](days/day-02.md) - Variables, Control Flow, and Functions
+- Day 03: [`days/day-03.md`](days/day-03.md) - Core Data Structures in Practice
+- Day 04: [`days/day-04.md`](days/day-04.md) - NumPy Arrays and Vectorization
+- Day 05: [`days/day-05.md`](days/day-05.md) - Matplotlib Essentials
+- Day 06: [`days/day-06.md`](days/day-06.md) - Numerical Experiments: Mean, Variance, Histogram
+- Day 07: [`days/day-07.md`](days/day-07.md) - Weekly Synthesis: Linear vs Nonlinear
