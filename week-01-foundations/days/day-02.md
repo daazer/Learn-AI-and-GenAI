@@ -23,7 +23,6 @@
 - [ ] Script output file exists.
 - [ ] Theory note has one concrete rule for loop choice.
 
-````md
 ---
 
 # 📘 Learnbook Chapter 02 — Variables, Control Flow & Functions

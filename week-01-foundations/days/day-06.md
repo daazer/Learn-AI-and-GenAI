@@ -22,8 +22,6 @@
 - [ ] All 3 distributions are analyzed.
 - [ ] Histograms and table are saved.
 - [ ] One interpretation note is documented.
-
-````md
 ---
 
 # 📘 Learnbook Chapter 06 — Numerical Experiments: Mean, Variance & Histogram

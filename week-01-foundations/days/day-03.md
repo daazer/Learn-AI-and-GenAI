@@ -23,7 +23,6 @@
 - [ ] Artifact output exists.
 - [ ] Theory table is present.
 
-````md id="d8r2kx"
 ---
 
 # 📘 Learnbook Chapter 03 — Core Data Structures in Practice

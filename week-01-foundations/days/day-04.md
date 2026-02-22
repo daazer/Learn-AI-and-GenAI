@@ -23,7 +23,6 @@
 - [ ] Stats artifact exists.
 - [ ] Broadcasting pitfall documented.
 
-````md
 ---
 
 # 📘 Learnbook Chapter 04 — NumPy Arrays & Vectorization

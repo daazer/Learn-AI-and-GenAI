@@ -22,8 +22,6 @@
 - [ ] Both image files exist and render.
 - [ ] Both plots are labeled.
 - [ ] Interpretation notes mention what the plots mean.
-
-````md
 ---
 
 # 📘 Learnbook Chapter 05 — Matplotlib Essentials
