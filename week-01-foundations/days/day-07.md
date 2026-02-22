@@ -23,7 +23,6 @@
 - [ ] Run-all script exists and executes.
 - [ ] Results log captures outcomes.
 
-````md
 ---
 
 # 📘 Learnbook Chapter 07 — Weekly Synthesis: Linear vs Nonlinear
